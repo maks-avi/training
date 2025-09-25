@@ -69,3 +69,6 @@ Host name2
 - Связывает локальную ветвь (main) с соответствующей удалённой ветвью, создавая связь ("upstream")  
 `git push --set-upstream origin222 main`
 
+
+
+
