@@ -60,8 +60,8 @@ Host name2
 # на локальном гите
 
 - добавляем удаленные репозитории с именами name1 и name2  
-`git remote add origin111 git@name1:maks-avi/111.git`  
-`git remote add origin222 git@name2:fox304/222.git`
+`git remote add origin111 git@name1:maks1/111.git`  
+`git remote add origin222 git@name2:maks2/222.git`
 - для изменения URL удалённого репозитория, привязанного к проекту Git  
 `git remote set-url <remote-name> <new-url>`
   - <remote-name>: Имя удалённого репозитория
