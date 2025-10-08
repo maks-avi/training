@@ -50,12 +50,12 @@ def timer2(func, n):
     print(time_run)
 
 
-rec_value = 10
-rec_list = [math_factorial, math_prod, factorial_iter,
+fact_value = 10
+fact_list = [math_factorial, math_prod, factorial_iter,
             factorial_recursion_ternary, factorial_recursion, factorial_reduce2, factorial_reduce]
 
-for func in rec_list:
-    timer(func, rec_value)
+for func in fact_list:
+    timer(func, fact_value)
 
 
 '''
